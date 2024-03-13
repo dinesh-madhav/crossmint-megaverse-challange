@@ -18,8 +18,7 @@ public class RequestItem {
     @JsonProperty("direction")
     private String direction;
 
-    // Constructors, getters, and setters
-    // ...
+
 
     public RequestItem() {
     }
