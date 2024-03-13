@@ -1,7 +1,3 @@
-Sure, here's a basic README file for your project:
-
----
-
 # Crossmint Challenge Project
 
 This project is developed to solve the challenges provided by Crossmint. It includes functionality to interact with the Crossmint API, generate requests based on the given goals, and handle various scenarios efficiently.
